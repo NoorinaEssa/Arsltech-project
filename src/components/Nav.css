@@ -1,0 +1,79 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+nav{
+    background-color: #213033;
+    color: #fff;
+  
+}
+.nav1{
+height: 10vh;
+}
+
+.icon {
+    margin-top: 4pxpx;
+   color: #2ECAF7;
+   font-size: 15px;
+}
+
+
+.mail {
+    color: #2ECAF7;
+    margin-left: 10px;
+    margin-bottom: 2px;
+    font-size: 15px;
+    
+}
+.prenav{
+    display: flex;
+    font-size: 13px;
+    
+    
+}
+
+/* .prenev i{
+    margin-left: 5%;
+} */
+.btn{
+ width: 265px;
+font-size: 15px;
+height: 30px;
+ margin-top: 10px;
+ margin-left: 10px;
+ padding-bottom: 15px;
+ text-align: center;
+ background-color: #FFFF00;
+ color: black;
+
+
+}
+.li{
+padding-left: 5px;
+text-decoration: none;
+color: white;
+
+
+}
+.para{
+   
+    margin-top: 10px;
+   
+}
+
+/* .bbtn{
+    width: 50px;
+    border: 1px solid #fff;
+    margina
+} */
+.bttn{
+    background-color: #D9534F;
+    color: white;
+    border: 0px solid #D9534F;
+    margin-left: 90%;
+  
+}
+
+
+
